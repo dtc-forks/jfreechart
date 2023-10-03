@@ -12,3 +12,7 @@
 *.iml
 *.ipr
 *.iws
+
+red4j-data/
+**/cp.txt
+**.java.orig
